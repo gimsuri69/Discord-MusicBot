@@ -31,7 +31,7 @@ module.exports = {
     host: "0.0.0.0",
     port: 80,
     pass: ""
-    secure: false, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
+    secure: true, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
   },
 
   //Please go to https://developer.spotify.com/dashboard/
